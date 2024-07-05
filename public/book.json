@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/1MHWTmB/kindpng-4945926-1.png",
+      "review": "Holden Caulfield's cynical journey through New York City is a poignant exploration of teenage angst and societal disillusionment.",
+      "totalPages": 277,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Coming of Age", "Literary Fiction"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+      
+    },
+    {
+      "id": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/7QBvqrd/kindpng-2592315-1.png",
+      "review": "A powerful narrative on racial injustice and moral growth in the American South, told through the eyes of Scout Finch.",
+      "totalPages": 324,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Legal Drama", "Southern Gothic"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+      
+    },
+    {
+      "id": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/BKjs86p/kindpng-5624060-1.png",
+      "review": "Orwell's dystopian masterpiece warns of the dangers of totalitarianism and surveillance, a chilling prophecy of a future society.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+      
+    },
+    {
+      "id": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/RgqJmpt/kindpng-2193744-1.png",
+      "review": "A tale of decadence, idealism, and obsession set in the Jazz Age, where Jay Gatsby pursues an elusive American Dream.",
+      "totalPages": 180,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+      
+    },
+    {
+      "id": 5,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://i.ibb.co/pPprHb8/kindpng-4022054-1.png",
+      "review": "Harari traces the history of Homo sapiens from the emergence of archaic human species to the present day, offering profound insights into our past.",
+      "totalPages": 443,
+      "rating": 4.7,
+      "category": "Non-Fiction",
+      "tags": ["History", "Anthropology"],
+      "publisher": "Harper",
+      "yearOfPublishing": 2011
+      
+    },
+    {
+      "id": 6,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/hBGS7n9/kindpng-1064993.png",
+      "review": "Bilbo Baggins embarks on an unexpected journey with dwarves and wizards, encountering dragons and elves in Tolkien's enchanting Middle-earth.",
+      "totalPages": 310,
+      "rating": 4.8,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Epic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+      
+    },
+    {
+      "id": 7,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/mCMvKB9/kindpng-7318921.png",
+      "review": "Austen's timeless romance explores love, marriage, and social manners in Georgian England, through the spirited Elizabeth Bennet and the enigmatic Mr. Darcy.",
+      "totalPages": 279,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Romance", "Classic"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+      
+    },
+    {
+      "id": 8,
+      "bookName": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "image": "https://i.ibb.co/QpMwRP2/pngwing-1.png",
+      "review": "Mikael Blomkvist and Lisbeth Salander delve into a chilling mystery involving corruption and conspiracy in Larsson's gripping Scandinavian thriller.",
+      "totalPages": 590,
+      "rating": 4.1,
+      "category": "Mystery",
+      "tags": ["Crime", "Suspense"],
+      "publisher": "Norstedts Förlag",
+      "yearOfPublishing": 2005
+      
+    },
+    {
+      "id": 9,
+      "bookName": "The Road",
+      "author": "Cormac McCarthy",
+      "image": "https://i.ibb.co/1MHWTmB/kindpng-4945926-1.png",
+      "review": "In a post-apocalyptic world, a father and son navigate a desolate landscape while confronting their own humanity in McCarthy's haunting narrative.",
+      "totalPages": 241,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Survival"],
+      "publisher": "Alfred A. Knopf",
+      "yearOfPublishing": 2006
+      
+    }
+  ]
+  
